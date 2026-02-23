@@ -1,0 +1,22 @@
+{
+  "name": "com.lgc.animationconverter",
+  "displayName": "LGC_实验性_骨骼动画转换物体动画",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "实验性_将Humanoid骨骼动画转换为Generic物体动画",
+  "author": {
+    "name": "LgcChina",
+    "url": "https://github.com/LgcChina"
+  },
+  "vpmDependencies": {
+  "com.vrchat.avatars": "3.x.x"
+  },
+  "keywords": [ "VRChat", "Animation", "Test", "工具", "Unity" ],
+  "samples": [
+    {
+      "displayName": "示例场景与预设",
+      "description": "未包含示例场景与预设",
+      "path": "Samples~/QuickStart"
+    }
+  ]
+}
